@@ -1,9 +1,6 @@
 FriendlyCMS
 ==============
 
-FriendlyCMS
-==============
-
 State of the project:
 ---------------------
 Currently the project is abandoned, I don't have enough time to invest it in developing it. 
